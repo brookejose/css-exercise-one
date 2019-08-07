@@ -19,6 +19,7 @@ section {
 h1 {
   font-family: sans-serif;
   font-size: 2em;
+  text-align: center;
 }
 /* Content */
 h3 {
@@ -36,3 +37,7 @@ h3 {
   margin: 10px 0;
   width: 100%;
   }
+
+.element-2 {
+   background-color: blue;
+}
